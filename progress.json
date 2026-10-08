@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-10T10:11:12.182Z",
+  "generated_at": "2026-10-10T10:11:13.910Z",
   "items": {
     "problem:24": {
       "kind": "problem",
@@ -39,6 +39,45 @@
       "last_pushed_at": "2026-10-07T10:52:02.849Z",
       "language": "python",
       "lines": 8
+    },
+    "problem:42": {
+      "kind": "problem",
+      "id": "42",
+      "title": "Implement ReLU Activation Function",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/42",
+      "path": "problems/0042-implement-relu-activation-function",
+      "first_solved_at": "2026-10-08T06:10:24.514Z",
+      "last_pushed_at": "2026-10-08T06:10:24.514Z",
+      "language": "python",
+      "lines": 5
+    },
+    "problem:44": {
+      "kind": "problem",
+      "id": "44",
+      "title": "Leaky ReLU Activation Function",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/44",
+      "path": "problems/0044-leaky-relu-activation-function",
+      "first_solved_at": "2026-10-08T06:14:28.311Z",
+      "last_pushed_at": "2026-10-08T06:14:28.311Z",
+      "language": "python",
+      "lines": 5
+    },
+    "problem:23": {
+      "kind": "problem",
+      "id": "23",
+      "title": "Softmax Activation Function Implementation ",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/23",
+      "path": "problems/0023-softmax-activation-function-implementation",
+      "first_solved_at": "2026-10-08T06:32:09.815Z",
+      "last_pushed_at": "2026-10-08T06:32:09.815Z",
+      "language": "python",
+      "lines": 13
     }
   }
 }
