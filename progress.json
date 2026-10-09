@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-10T10:11:13.910Z",
+  "generated_at": "2026-10-10T10:11:15.716Z",
   "items": {
     "problem:24": {
       "kind": "problem",
@@ -78,6 +78,32 @@
       "last_pushed_at": "2026-10-08T06:32:09.815Z",
       "language": "python",
       "lines": 13
+    },
+    "problem:371": {
+      "kind": "problem",
+      "id": "371",
+      "title": "Calculate Number of Parameters in Neural Network",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/371",
+      "path": "problems/0371-calculate-number-of-parameters-in-neural-network",
+      "first_solved_at": "2026-10-09T05:22:53.758Z",
+      "last_pushed_at": "2026-10-09T05:22:53.758Z",
+      "language": "python",
+      "lines": 28
+    },
+    "problem:883": {
+      "kind": "problem",
+      "id": "883",
+      "title": "Implement a Linear Layer Forward Pass with Matrix Multiplication",
+      "difficulty": "easy",
+      "category": "Pytorch",
+      "url": "https://www.deep-ml.com/problems/883",
+      "path": "problems/0883-implement-a-linear-layer-forward-pass-with-matrix-multiplication",
+      "first_solved_at": "2026-10-09T05:34:51.469Z",
+      "last_pushed_at": "2026-10-09T05:34:51.469Z",
+      "language": "python",
+      "lines": 8
     }
   }
 }
