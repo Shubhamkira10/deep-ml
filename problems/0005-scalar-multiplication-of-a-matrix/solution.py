@@ -8,7 +8,7 @@ def scalar_multiply(matrix: list[list[int|float]], scalar: int|float) -> list[li
 	for i in range(len(matrix)):
 		row = []
 		for j in range(len(matrix[0])):
-			row.append( expand[i*len(matrix) +j])
+			row.append( expand[i*len(matrix[0]) +j])
 		result.append(row)
 
 	return result
