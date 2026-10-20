@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**21** solved · 21 problems · 0 labs · 0 math
+**22** solved · 21 problems · 0 labs · 1 math
 
 ![Coverage](./coverage.svg)
 
@@ -33,6 +33,12 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Calculate Eigenvalues of a Matrix](https://www.deep-ml.com/problems/6) | medium | 2026-10-18 | [solution](problems/0006-calculate-eigenvalues-of-a-matrix) |
 | [Implement Adam Optimization Algorithm](https://www.deep-ml.com/problems/49) | medium | 2026-10-13 | [solution](problems/0049-implement-adam-optimization-algorithm) |
 | [Matrix times Matrix ](https://www.deep-ml.com/problems/9) | medium | 2026-10-17 | [solution](problems/0009-matrix-times-matrix) |
+
+## Math
+
+| | Difficulty | Solved | |
+| --- | --- | --- | --- |
+| [Vector Operations](https://www.deep-ml.com/math-problems/7) | easy | 2026-10-20 | [solution](math/0007-vector-operations) |
 
 ---
 
