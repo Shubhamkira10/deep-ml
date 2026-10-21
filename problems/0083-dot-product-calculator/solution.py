@@ -9,7 +9,4 @@ def calculate_dot_product(vec1: torch.Tensor, vec2: torch.Tensor) -> torch.Tenso
     Returns:
         torch.Tensor: The dot product of the two vectors as a scalar tensor.
     """
-    ans = 0
-    for i in range(len(vec1)):
-        ans += vec1[i] * vec2[i]
-    return ans
+    return torch.dot(vec1, vec2)
