@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25T18:17:28.663Z",
+  "generated_at": "2026-10-25T18:53:37.744Z",
   "items": {
     "problem:24": {
       "kind": "problem",
@@ -376,6 +376,19 @@
       "path": "problems/0058-gaussian-elimination-for-solving-linear-systems",
       "first_solved_at": "2026-10-25T17:48:04.782Z",
       "last_pushed_at": "2026-10-25T18:17:26.701Z",
+      "language": "python",
+      "lines": 25
+    },
+    "problem:333": {
+      "kind": "problem",
+      "id": "333",
+      "title": "LU Decomposition of a Square Matrix",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/333",
+      "path": "problems/0333-lu-decomposition-of-a-square-matrix",
+      "first_solved_at": "2026-10-25T18:53:35.901Z",
+      "last_pushed_at": "2026-10-25T18:53:35.901Z",
       "language": "python",
       "lines": 25
     }
