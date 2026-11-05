@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T20:27:54.299Z",
+  "generated_at": "2026-11-05T20:07:04.150Z",
   "items": {
     "problem:24": {
       "kind": "problem",
@@ -465,6 +465,19 @@
       "path": "math/0034-least-squares-and-the-normal-equations",
       "first_solved_at": "2026-11-03T20:27:53.651Z",
       "last_pushed_at": "2026-11-03T20:27:53.651Z"
+    },
+    "problem:16": {
+      "kind": "problem",
+      "id": "16",
+      "title": "Feature Scaling Implementation",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/16",
+      "path": "problems/0016-feature-scaling-implementation",
+      "first_solved_at": "2026-11-05T20:07:02.659Z",
+      "last_pushed_at": "2026-11-05T20:07:02.659Z",
+      "language": "python",
+      "lines": 21
     }
   }
 }
